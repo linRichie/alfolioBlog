@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-coredns完全指南-deepseek",
+        
+          title: "Coredns完全指南 Deepseek",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/CoreDNS%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97-deepseek/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
