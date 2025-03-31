@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://linrichie.github.io/alfolioBlog/sitemap.xml
+Sitemap: https://alfblog.moniter.top/sitemap.xml
